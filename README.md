@@ -4,4 +4,4 @@
 
 
 ![Aproximación del Diagrama de Estados de la autómata celular trabajada](diagrama.png)
-- La anterior es el diagrama de estados de nuestra autómata celular
+- La anterior imagen es el diagrama de estados de nuestra autómata celular
